@@ -167,7 +167,7 @@ GameObject:
   - component: {fileID: 119925938}
   m_Layer: 0
   m_Name: Collider
-  m_TagString: Floor
+  m_TagString: FloorA
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -415,7 +415,7 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: f5768d0b62f24f54bad7399d5a026d6d,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 0.08
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: f5768d0b62f24f54bad7399d5a026d6d,
         type: 3}
@@ -508,7 +508,7 @@ GameObject:
   - component: {fileID: 961028419}
   m_Layer: 0
   m_Name: Colider
-  m_TagString: Floor
+  m_TagString: FloorB
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -906,7 +906,7 @@ GameObject:
   - component: {fileID: 1652289358}
   m_Layer: 0
   m_Name: Wall2
-  m_TagString: Floor
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -999,7 +999,7 @@ GameObject:
   - component: {fileID: 2043564368}
   m_Layer: 0
   m_Name: Wall1
-  m_TagString: Floor
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

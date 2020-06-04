@@ -10,13 +10,15 @@ public class PlayerController : MonoBehaviour
     private Animator anim;
     private Vector3 movement;
     private bool GCActive;
+    private string floorTag;
 
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody>();
         anim = GetComponentInParent<Animator>();
-        GCActive = true;
+        GCActive = true; // Can the cube still change gravity?
+        floorTag = "FloorA";
     }
 
     // Update is called once per frame
@@ -33,7 +35,7 @@ public class PlayerController : MonoBehaviour
             movement = new Vector3(moveHorizontal, 0.0f, moveVertical);
             movement = movement * 0.2f;
         }
-        //anim.SetBool("isGrounded", transform.position.y < 2f);
+
         if (anim.GetCurrentAnimatorStateInfo(0).IsName("Short Jump"))
         {
             SetLocalFall();
@@ -46,13 +48,14 @@ public class PlayerController : MonoBehaviour
         if (other.CompareTag("GravityCube") && GCActive) 
         {
             Physics.gravity = new Vector3(-1.0f, 0.0f, 0.0f);
-            parent.transform.Rotate(0.0f,0.0f,-90.0f);
+            parent.transform.RotateAround (transform.position, new Vector3(0,0,1), 90.0f);
             SetLocalFall();
+            floorTag = "FloorB"; // Change tag to match new orientation
             
             GCActive = false;
         }
 
-        if (other.CompareTag("Floor"))
+        if (other.CompareTag(floorTag))
         {
             anim.SetBool("isGrounded", true);
         }
@@ -60,7 +63,7 @@ public class PlayerController : MonoBehaviour
 
     void OnTriggerExit (Collider other)
     {
-        if (other.CompareTag("Floor"))
+        if (other.CompareTag(floorTag))
         {
             anim.SetBool("isGrounded", false);
         }
