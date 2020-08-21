@@ -4,5 +4,47 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: c8339311c928243db83900c0e9555ad0
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 8e59de24d21da5448917dc4995ec1b55
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MouseControls.unity
+    guid: 838d3c6d0f36f487aa19a30f90f7847a
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Rules Scene.unity
+    guid: 8b4e1be5a7c634bbca03015581cb94f8
+  - enabled: 1
+    path: Assets/Scenes/LevelTransition.unity
+    guid: 37df50002a5e540caaf7e77b9e397b30
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 13bc31622d4cf4b19835376b6b167781
+  - enabled: 1
+    path: Assets/Scenes/ControlsScene.unity
+    guid: 1f206ff3fa25f495c9504f1d95b0c2b3
+  - enabled: 1
+    path: Assets/Scenes/KeyboardControls.unity
+    guid: 8364734925a6d47979edcebc2e0ae727
+  - enabled: 1
+    path: Assets/Scenes/Level Select.unity
+    guid: e8aad32b9c5fd453d8d50acf228e001c
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: d57bc125967bd435d99fce8cfc1bfa39
   m_configObjects: {}
