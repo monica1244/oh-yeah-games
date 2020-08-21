@@ -1,4 +1,5 @@
 <p align = "center"><img src="/Logo_files/logo_transparent.png" alt="drawing" width="180" height="180"/></p>
+
 ## Super Springer
 #### Course project for CS 6457: Video Game Design (Prof. Jeffrey Brian Wilson) @ Georgia Institute of Technology
 
