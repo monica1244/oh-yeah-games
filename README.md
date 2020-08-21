@@ -9,6 +9,9 @@ Super Springer is a 3D platformer game created using <b>Unity</b>. The player co
 ### Gameplay
 [YouTube - Super Springer](https://youtu.be/QYD7wCdKs0s)
 
+### How to Play
+Download the Windows or Mac build from this repository and you're set.
+
 ### Contributors
 Monica Gupta @ https://github.com/monica1244<br>
 Andrew Pritchett @ https://github.com/apritchett7<br>
