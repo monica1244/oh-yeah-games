@@ -19,3 +19,5 @@ Andrew Pritchett @ https://github.com/apritchett7<br>
 Ashwin Jeyaseelan @ https://github.com/8Gitbrix?tab=repositories<br>
 Ezra Goss @ https://github.com/ezragoss<br>
 Sanggwon Jang @ https://github.com/sanggwonjang<br>
+
+This repository is a copy of the original project hosted in the private repository: https://github.gatech.edu/mgupta334/OhYeahGames.
