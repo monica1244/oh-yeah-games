@@ -1,2 +1,2 @@
-<img src="/Logo_files/logo_transparent.png" alt="drawing" width="80" height="80" align="left" alt="Super Springer"/>
+<img src="/Logo_files/logo_transparent.png" alt="drawing" width="120" height="120"/>
 Video Game Design Project
