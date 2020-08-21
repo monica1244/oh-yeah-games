@@ -1,2 +1,2 @@
-# ![OhYeahGames Logo](/images/logo.png) Oh-Yeah-Games
+# ![OhYeahGames Logo](/Logo_files/logo_transparent.png) Oh-Yeah-Games
 Video Game Design Project
