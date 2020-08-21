@@ -1,2 +1,2 @@
-# ![OhYeahGames Logo](/Logo_files/logo_transparent.png =20x20) Oh-Yeah-Games
+# <img src="/Logo_files/logo_transparent.png" alt="drawing" width="20" height="20"/> Oh-Yeah-Games 
 Video Game Design Project
