@@ -13,7 +13,7 @@ Super Springer is a 3D platformer game created using <b>Unity</b>. The player co
 ### How to Play
 Download the Windows or Mac build from this repository and you're set.
 
-### Contributors
+### Who is Oh Yeah! Games
 Monica Gupta @ https://github.com/monica1244<br>
 Andrew Pritchett @ https://github.com/apritchett7<br>
 Ashwin Jeyaseelan @ https://github.com/8Gitbrix?tab=repositories<br>
