@@ -1,0 +1,54 @@
+EXTERNAL RESOURCES
+1. Trees: Low Poly Tree Pack - Broken Vector: trees
+2. Barrel, rocks, windmill fans: https://kenney.nl/assets/platformer-kit
+3. Level 2 Castle: https://kenney.nl/assets/minigolf-kit
+4. Cowboy hat: Hats pack - 3D Microgames Add-Ons by Unity Technologies
+https://assetstore.unity.com/packages/3d/hats-pack-3d-microgames-add-ons-163011
+5. Projectile cannon model: https://www.kenney.nl/assets/space-kit 
+6. Icons: 40+ Simple Icons - Free - shuvadanil https://assetstore.unity.com/packages/2d/gui/icons/40-simple-icons-free-171008
+7. Stone portal: Stone portal - Ordoss https://assetstore.unity.com/packages/3d/environments/fantasy/stone-portal-65426
+8. Lamp: Sunny Village LITE - Skythian Cat https://assetstore.unity.com/packages/3d/environments/fantasy/sunny-village-lite-85199
+9. Skybox: Farland Skies - Cloudy Crown - Borodar https://assetstore.unity.com/packages/2d/textures-materials/sky/farland-skies-cloudy-crown-60004
+10. Super Springer Font: Google Fonts: Rubik - Hubert and Fischer, Meir Sadan, Cyreal https://fonts.google.com/specimen/Rubik
+11. Super Springer Logo: created using hatchful
+ https://hatchful.shopify.com
+
+Audio:
+1. vanishing platform sound: ìDark magic spell, powerful electric energy whoosh, pass by 19î  https://www.zapsplat.com/sound-effect-category/magic/page/5/ 
+2. platform push sound: https://www.zapsplat.com/sound-effect-category/game-sounds/page/3/ 
+3. platform spawner sound: ìMagical glissando mallets or bells. Version 4î https://www.zapsplat.com/sound-effect-category/magic/page/2/
+4. Disguise pickup sound: another magic wand spell tinkle by Timbre
+https://freesound.org/people/Timbre/sounds/221683/
+5. Windmill sound: Whoosh by qubodup
+https://freesound.org/people/qubodup/sounds/60013/
+6. Trampoline sound: Funny Boing 1 by miksmusic, credits: TunePocket
+https://freesound.org/people/miksmusic/sounds/497705/
+7. Checkpoint lamp sound: success_low by grunz https://freesound.org/people/grunz/sounds/109663/
+8. Projectile sound: spinSinewave by alpharo
+https://freesound.org/people/alpharo/sounds/186696/
+9. Damage sound: Damage by MortisBlack
+https://freesound.org/people/MortisBlack/sounds/385046/
+10. Health pickup sound: health potion by qubodup
+Potion Drink Regen Copyright 2012 DrMinky
+Health Potion Copyright 2012 Iwan Gabovitch, CC-BY3 license
+https://freesound.org/people/qubodup/sounds/172589/
+11. Spring dying audio: Game die by josepharaoh99
+https://freesound.org/people/josepharaoh99/sounds/364929/
+12. Dying whistle sound: 39-Caida Cartoon-consolidated by DSA98 https://freesound.org/people/DSA98/sounds/393159/
+13. Coin collect sound: Coin_C_08 by cabled_mess https://freesound.org/people/cabled_mess/sounds/350874/#
+14. Enemy staple remover sound: Flower chomp by awhhhyeah https://freesound.org/people/awhhhyeah/sounds/448248/
+15. Button push sound: Button by quedicemipez https://freesound.org/people/quedicemipez/sounds/522692/
+16. Boing sound: Boing by juskiddink 
+https://freesound.org/people/juskiddink/sounds/140867/
+17.Gravity change sound: SFX Magic by renatalmar https://freesound.org/people/renatalmar/sounds/264981/
+18. Background Music:
+Slicked Back, Clever Girl, Oh What a Whirl, Two Steps Back, Jump Jive Roar by Jules Gaia
+Feeling Alright by Gavin Luke
+https://www.epidemicsound.com
+
+TEAM MEMBER CONTRIBUTIONS
+Andrew Pritchett - AI, Level Design, and Disguise Powerup Implementation
+Monica Gupta - Movement/Character Control, Modeling, UI, AI and Audio
+Sanggwon Jang - Level Design and Level Mechanic Coding
+Ashwin Jeyaseelan - Level Design and Level Mechanic Coding
+Ezra Goss - Gravity Cube and Camera Control
